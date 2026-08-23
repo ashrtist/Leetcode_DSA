@@ -10,6 +10,7 @@ LeetCode DSA
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ashrtist/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ashrtist/Leetcode_DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## Two Pointers
 |  |
@@ -19,4 +20,12 @@ LeetCode DSA
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ashrtist/Leetcode_DSA/tree/master/0015-3sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ashrtist/Leetcode_DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ashrtist/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
