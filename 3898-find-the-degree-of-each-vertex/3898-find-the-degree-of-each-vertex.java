@@ -2,6 +2,7 @@ class Solution {
     public int[] findDegrees(int[][] matrix) {
         int ans[]=new int[matrix.length];
 
+        //List<Integer> ans = new ArrayList<>();
         for(int i=0;i<matrix.length;i++)
         {
             int degree=0;
@@ -13,6 +14,7 @@ class Solution {
                 }
             }
             ans[i]=degree;
+            //ans.add(degree);
         }
         return ans;
     }
