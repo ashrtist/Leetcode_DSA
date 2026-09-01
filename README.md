@@ -10,6 +10,7 @@ LeetCode DSA
 | [2553-separate-the-digits-in-an-array](https://github.com/ashrtist/Leetcode_DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashrtist/Leetcode_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/ashrtist/Leetcode_DSA/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ashrtist/Leetcode_DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/ashrtist/Leetcode_DSA/tree/master/3731-find-missing-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ashrtist/Leetcode_DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Math
@@ -26,6 +27,7 @@ LeetCode DSA
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ashrtist/Leetcode_DSA/tree/master/0015-3sum) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ashrtist/Leetcode_DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/ashrtist/Leetcode_DSA/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -46,9 +48,14 @@ LeetCode DSA
 ## Hash Table
 |  |
 | ------- |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ashrtist/Leetcode_DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/ashrtist/Leetcode_DSA/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashrtist/Leetcode_DSA/tree/master/2553-separate-the-digits-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ashrtist/Leetcode_DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 <!---LeetCode Topics End-->
