@@ -24,6 +24,7 @@ LeetCode DSA
 | [0073-set-matrix-zeroes](https://github.com/ashrtist/Leetcode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ashrtist/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ashrtist/Leetcode_DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ashrtist/Leetcode_DSA/tree/master/0079-word-search) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ashrtist/Leetcode_DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashrtist/Leetcode_DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashrtist/Leetcode_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -83,6 +84,7 @@ LeetCode DSA
 | [0063-unique-paths-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ashrtist/Leetcode_DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ashrtist/Leetcode_DSA/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/ashrtist/Leetcode_DSA/tree/master/0079-word-search) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ashrtist/Leetcode_DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
@@ -124,10 +126,12 @@ LeetCode DSA
 | [0046-permutations](https://github.com/ashrtist/Leetcode_DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/ashrtist/Leetcode_DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ashrtist/Leetcode_DSA/tree/master/0079-word-search) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ashrtist/Leetcode_DSA/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/ashrtist/Leetcode_DSA/tree/master/0079-word-search) |
 ## Quicksort
 |  |
 | ------- |
@@ -141,4 +145,8 @@ LeetCode DSA
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ashrtist/Leetcode_DSA/tree/master/0078-subsets) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ashrtist/Leetcode_DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
