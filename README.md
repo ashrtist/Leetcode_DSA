@@ -9,6 +9,7 @@ LeetCode DSA
 | [0018-4sum](https://github.com/ashrtist/Leetcode_DSA/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/ashrtist/Leetcode_DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ashrtist/Leetcode_DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0040-combination-sum-ii) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ashrtist/Leetcode_DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashrtist/Leetcode_DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashrtist/Leetcode_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -85,4 +86,5 @@ LeetCode DSA
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ashrtist/Leetcode_DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
