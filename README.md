@@ -15,6 +15,7 @@ LeetCode DSA
 | [0047-permutations-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/ashrtist/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ashrtist/Leetcode_DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/ashrtist/Leetcode_DSA/tree/master/0055-jump-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ashrtist/Leetcode_DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashrtist/Leetcode_DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashrtist/Leetcode_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -49,6 +50,7 @@ LeetCode DSA
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/ashrtist/Leetcode_DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ashrtist/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [1025-divisor-game](https://github.com/ashrtist/Leetcode_DSA/tree/master/1025-divisor-game) |
 ## Memoization
@@ -81,6 +83,7 @@ LeetCode DSA
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/ashrtist/Leetcode_DSA/tree/master/0055-jump-game) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ashrtist/Leetcode_DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Brainteaser
 |  |
