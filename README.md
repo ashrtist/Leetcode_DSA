@@ -20,6 +20,7 @@ LeetCode DSA
 | [0057-insert-interval](https://github.com/ashrtist/Leetcode_DSA/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/ashrtist/Leetcode_DSA/tree/master/0064-minimum-path-sum) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ashrtist/Leetcode_DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashrtist/Leetcode_DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashrtist/Leetcode_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -57,6 +58,7 @@ LeetCode DSA
 | [0045-jump-game-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ashrtist/Leetcode_DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/ashrtist/Leetcode_DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ashrtist/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [1025-divisor-game](https://github.com/ashrtist/Leetcode_DSA/tree/master/1025-divisor-game) |
 ## Memoization
@@ -74,6 +76,7 @@ LeetCode DSA
 | [0054-spiral-matrix](https://github.com/ashrtist/Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/ashrtist/Leetcode_DSA/tree/master/0064-minimum-path-sum) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ashrtist/Leetcode_DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
