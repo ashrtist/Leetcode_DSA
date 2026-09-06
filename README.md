@@ -16,6 +16,7 @@ LeetCode DSA
 | [0049-group-anagrams](https://github.com/ashrtist/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ashrtist/Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ashrtist/Leetcode_DSA/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/ashrtist/Leetcode_DSA/tree/master/0056-merge-intervals) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ashrtist/Leetcode_DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashrtist/Leetcode_DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashrtist/Leetcode_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -44,6 +45,7 @@ LeetCode DSA
 | [0018-4sum](https://github.com/ashrtist/Leetcode_DSA/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/ashrtist/Leetcode_DSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/ashrtist/Leetcode_DSA/tree/master/0056-merge-intervals) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ashrtist/Leetcode_DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/ashrtist/Leetcode_DSA/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -108,4 +110,8 @@ LeetCode DSA
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ashrtist/Leetcode_DSA/tree/master/0049-group-anagrams) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ashrtist/Leetcode_DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
