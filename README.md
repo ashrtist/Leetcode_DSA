@@ -10,6 +10,7 @@ LeetCode DSA
 | [0036-valid-sudoku](https://github.com/ashrtist/Leetcode_DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ashrtist/Leetcode_DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0045-jump-game-ii) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ashrtist/Leetcode_DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashrtist/Leetcode_DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashrtist/Leetcode_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -41,6 +42,7 @@ LeetCode DSA
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/ashrtist/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [1025-divisor-game](https://github.com/ashrtist/Leetcode_DSA/tree/master/1025-divisor-game) |
 ## Memoization
@@ -69,6 +71,7 @@ LeetCode DSA
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0045-jump-game-ii) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ashrtist/Leetcode_DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Brainteaser
 |  |
