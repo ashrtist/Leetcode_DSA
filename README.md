@@ -14,6 +14,7 @@ LeetCode DSA
 | [0046-permutations](https://github.com/ashrtist/Leetcode_DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/ashrtist/Leetcode_DSA/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/ashrtist/Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ashrtist/Leetcode_DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashrtist/Leetcode_DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashrtist/Leetcode_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -62,6 +63,7 @@ LeetCode DSA
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ashrtist/Leetcode_DSA/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/ashrtist/Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ashrtist/Leetcode_DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
@@ -73,6 +75,7 @@ LeetCode DSA
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ashrtist/Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashrtist/Leetcode_DSA/tree/master/2553-separate-the-digits-in-an-array) |
 ## Greedy
 |  |
