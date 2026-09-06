@@ -31,6 +31,7 @@ LeetCode DSA
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashrtist/Leetcode_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/ashrtist/Leetcode_DSA/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0130-surrounded-regions](https://github.com/ashrtist/Leetcode_DSA/tree/master/0130-surrounded-regions) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ashrtist/Leetcode_DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashrtist/Leetcode_DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashrtist/Leetcode_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -93,6 +94,7 @@ LeetCode DSA
 | [0064-minimum-path-sum](https://github.com/ashrtist/Leetcode_DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ashrtist/Leetcode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/ashrtist/Leetcode_DSA/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/ashrtist/Leetcode_DSA/tree/master/0130-surrounded-regions) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ashrtist/Leetcode_DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
@@ -162,6 +164,7 @@ LeetCode DSA
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ashrtist/Leetcode_DSA/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/ashrtist/Leetcode_DSA/tree/master/0130-surrounded-regions) |
 ## Binary Search
 |  |
 | ------- |
@@ -181,4 +184,12 @@ LeetCode DSA
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashrtist/Leetcode_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashrtist/Leetcode_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/ashrtist/Leetcode_DSA/tree/master/0130-surrounded-regions) |
+## Union-Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/ashrtist/Leetcode_DSA/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
