@@ -27,6 +27,7 @@ LeetCode DSA
 | [0079-word-search](https://github.com/ashrtist/Leetcode_DSA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashrtist/Leetcode_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ashrtist/Leetcode_DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashrtist/Leetcode_DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashrtist/Leetcode_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -94,6 +95,7 @@ LeetCode DSA
 | [0036-valid-sudoku](https://github.com/ashrtist/Leetcode_DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ashrtist/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ashrtist/Leetcode_DSA/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashrtist/Leetcode_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ashrtist/Leetcode_DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/ashrtist/Leetcode_DSA/tree/master/3731-find-missing-elements) |
 ## Simulation
@@ -157,4 +159,16 @@ LeetCode DSA
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashrtist/Leetcode_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashrtist/Leetcode_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashrtist/Leetcode_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
