@@ -12,6 +12,7 @@ LeetCode DSA
 | [0040-combination-sum-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/ashrtist/Leetcode_DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0047-permutations-ii) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ashrtist/Leetcode_DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashrtist/Leetcode_DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashrtist/Leetcode_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -38,6 +39,7 @@ LeetCode DSA
 | ------- |
 | [0015-3sum](https://github.com/ashrtist/Leetcode_DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ashrtist/Leetcode_DSA/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0047-permutations-ii) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ashrtist/Leetcode_DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/ashrtist/Leetcode_DSA/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -92,4 +94,5 @@ LeetCode DSA
 | [0039-combination-sum](https://github.com/ashrtist/Leetcode_DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ashrtist/Leetcode_DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
