@@ -29,6 +29,7 @@ LeetCode DSA
 | [0090-subsets-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashrtist/Leetcode_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashrtist/Leetcode_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0120-triangle](https://github.com/ashrtist/Leetcode_DSA/tree/master/0120-triangle) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ashrtist/Leetcode_DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashrtist/Leetcode_DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashrtist/Leetcode_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -70,6 +71,7 @@ LeetCode DSA
 | [0063-unique-paths-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ashrtist/Leetcode_DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ashrtist/Leetcode_DSA/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/ashrtist/Leetcode_DSA/tree/master/0120-triangle) |
 | [1025-divisor-game](https://github.com/ashrtist/Leetcode_DSA/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
