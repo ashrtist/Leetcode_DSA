@@ -23,6 +23,7 @@ LeetCode DSA
 | [0064-minimum-path-sum](https://github.com/ashrtist/Leetcode_DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ashrtist/Leetcode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ashrtist/Leetcode_DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ashrtist/Leetcode_DSA/tree/master/0078-subsets) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ashrtist/Leetcode_DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashrtist/Leetcode_DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashrtist/Leetcode_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -122,6 +123,7 @@ LeetCode DSA
 | [0040-combination-sum-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ashrtist/Leetcode_DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/ashrtist/Leetcode_DSA/tree/master/0078-subsets) |
 ## String
 |  |
 | ------- |
@@ -135,4 +137,8 @@ LeetCode DSA
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ashrtist/Leetcode_DSA/tree/master/0075-sort-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ashrtist/Leetcode_DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
