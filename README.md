@@ -18,6 +18,7 @@ LeetCode DSA
 | [0055-jump-game](https://github.com/ashrtist/Leetcode_DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ashrtist/Leetcode_DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ashrtist/Leetcode_DSA/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0059-spiral-matrix-ii) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ashrtist/Leetcode_DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashrtist/Leetcode_DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashrtist/Leetcode_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -69,6 +70,7 @@ LeetCode DSA
 | ------- |
 | [0036-valid-sudoku](https://github.com/ashrtist/Leetcode_DSA/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/ashrtist/Leetcode_DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0059-spiral-matrix-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ashrtist/Leetcode_DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
@@ -81,6 +83,7 @@ LeetCode DSA
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ashrtist/Leetcode_DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0059-spiral-matrix-ii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashrtist/Leetcode_DSA/tree/master/2553-separate-the-digits-in-an-array) |
 ## Greedy
 |  |
