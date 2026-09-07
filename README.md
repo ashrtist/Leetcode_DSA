@@ -37,6 +37,7 @@ LeetCode DSA
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ashrtist/Leetcode_DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ashrtist/Leetcode_DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashrtist/Leetcode_DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/ashrtist/Leetcode_DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashrtist/Leetcode_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/ashrtist/Leetcode_DSA/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ashrtist/Leetcode_DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -168,6 +169,7 @@ LeetCode DSA
 | [0090-subsets-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0137-single-number-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ashrtist/Leetcode_DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/ashrtist/Leetcode_DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Depth-First Search
 |  |
 | ------- |
