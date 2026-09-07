@@ -35,6 +35,7 @@ LeetCode DSA
 | [0134-gas-station](https://github.com/ashrtist/Leetcode_DSA/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0137-single-number-ii) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ashrtist/Leetcode_DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ashrtist/Leetcode_DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashrtist/Leetcode_DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashrtist/Leetcode_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/ashrtist/Leetcode_DSA/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -48,6 +49,7 @@ LeetCode DSA
 | [0070-climbing-stairs](https://github.com/ashrtist/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [1025-divisor-game](https://github.com/ashrtist/Leetcode_DSA/tree/master/1025-divisor-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ashrtist/Leetcode_DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ashrtist/Leetcode_DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashrtist/Leetcode_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ashrtist/Leetcode_DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -144,6 +146,7 @@ LeetCode DSA
 | [0078-subsets](https://github.com/ashrtist/Leetcode_DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ashrtist/Leetcode_DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0090-subsets-ii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ashrtist/Leetcode_DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## String
 |  |
 | ------- |
@@ -164,6 +167,7 @@ LeetCode DSA
 | [0078-subsets](https://github.com/ashrtist/Leetcode_DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0137-single-number-ii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ashrtist/Leetcode_DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -196,4 +200,12 @@ LeetCode DSA
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/ashrtist/Leetcode_DSA/tree/master/0130-surrounded-regions) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ashrtist/Leetcode_DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ashrtist/Leetcode_DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
