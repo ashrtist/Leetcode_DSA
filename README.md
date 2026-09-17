@@ -70,6 +70,7 @@ LeetCode DSA
 | [0049-group-anagrams](https://github.com/ashrtist/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ashrtist/Leetcode_DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ashrtist/Leetcode_DSA/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/ashrtist/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ashrtist/Leetcode_DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/ashrtist/Leetcode_DSA/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -111,6 +112,7 @@ LeetCode DSA
 | [0073-set-matrix-zeroes](https://github.com/ashrtist/Leetcode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashrtist/Leetcode_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashrtist/Leetcode_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0242-valid-anagram](https://github.com/ashrtist/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/ashrtist/Leetcode_DSA/tree/master/0771-jewels-and-stones) |
 | [2367-number-of-arithmetic-triplets](https://github.com/ashrtist/Leetcode_DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ashrtist/Leetcode_DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -157,6 +159,7 @@ LeetCode DSA
 | ------- |
 | [0049-group-anagrams](https://github.com/ashrtist/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/ashrtist/Leetcode_DSA/tree/master/0079-word-search) |
+| [0242-valid-anagram](https://github.com/ashrtist/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/ashrtist/Leetcode_DSA/tree/master/0771-jewels-and-stones) |
 | [3110-score-of-a-string](https://github.com/ashrtist/Leetcode_DSA/tree/master/3110-score-of-a-string) |
 ## Quicksort
