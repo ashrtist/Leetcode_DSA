@@ -71,6 +71,7 @@ LeetCode DSA
 | [0056-merge-intervals](https://github.com/ashrtist/Leetcode_DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ashrtist/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/ashrtist/Leetcode_DSA/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/ashrtist/Leetcode_DSA/tree/master/0389-find-the-difference) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ashrtist/Leetcode_DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/ashrtist/Leetcode_DSA/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -114,6 +115,7 @@ LeetCode DSA
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashrtist/Leetcode_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0242-valid-anagram](https://github.com/ashrtist/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashrtist/Leetcode_DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/ashrtist/Leetcode_DSA/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/ashrtist/Leetcode_DSA/tree/master/0771-jewels-and-stones) |
 | [2367-number-of-arithmetic-triplets](https://github.com/ashrtist/Leetcode_DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ashrtist/Leetcode_DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -162,6 +164,7 @@ LeetCode DSA
 | [0079-word-search](https://github.com/ashrtist/Leetcode_DSA/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/ashrtist/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashrtist/Leetcode_DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/ashrtist/Leetcode_DSA/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/ashrtist/Leetcode_DSA/tree/master/0771-jewels-and-stones) |
 | [3110-score-of-a-string](https://github.com/ashrtist/Leetcode_DSA/tree/master/3110-score-of-a-string) |
 ## Quicksort
@@ -179,6 +182,7 @@ LeetCode DSA
 | [0078-subsets](https://github.com/ashrtist/Leetcode_DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0137-single-number-ii) |
+| [0389-find-the-difference](https://github.com/ashrtist/Leetcode_DSA/tree/master/0389-find-the-difference) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ashrtist/Leetcode_DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/ashrtist/Leetcode_DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Depth-First Search
