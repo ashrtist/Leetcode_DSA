@@ -60,6 +60,7 @@ LeetCode DSA
 | [0015-3sum](https://github.com/ashrtist/Leetcode_DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ashrtist/Leetcode_DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ashrtist/Leetcode_DSA/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/ashrtist/Leetcode_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ashrtist/Leetcode_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [2367-number-of-arithmetic-triplets](https://github.com/ashrtist/Leetcode_DSA/tree/master/2367-number-of-arithmetic-triplets) |
 ## Sorting
@@ -163,6 +164,7 @@ LeetCode DSA
 | ------- |
 | [0049-group-anagrams](https://github.com/ashrtist/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/ashrtist/Leetcode_DSA/tree/master/0079-word-search) |
+| [0151-reverse-words-in-a-string](https://github.com/ashrtist/Leetcode_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ashrtist/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ashrtist/Leetcode_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashrtist/Leetcode_DSA/tree/master/0387-first-unique-character-in-a-string) |
