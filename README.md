@@ -119,6 +119,7 @@ LeetCode DSA
 | [0387-first-unique-character-in-a-string](https://github.com/ashrtist/Leetcode_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ashrtist/Leetcode_DSA/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/ashrtist/Leetcode_DSA/tree/master/0771-jewels-and-stones) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ashrtist/Leetcode_DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2367-number-of-arithmetic-triplets](https://github.com/ashrtist/Leetcode_DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ashrtist/Leetcode_DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/ashrtist/Leetcode_DSA/tree/master/3731-find-missing-elements) |
@@ -170,6 +171,7 @@ LeetCode DSA
 | [0387-first-unique-character-in-a-string](https://github.com/ashrtist/Leetcode_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ashrtist/Leetcode_DSA/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/ashrtist/Leetcode_DSA/tree/master/0771-jewels-and-stones) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ashrtist/Leetcode_DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3110-score-of-a-string](https://github.com/ashrtist/Leetcode_DSA/tree/master/3110-score-of-a-string) |
 ## Quicksort
 |  |
