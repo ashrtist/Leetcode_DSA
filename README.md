@@ -49,6 +49,7 @@ LeetCode DSA
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ashrtist/Leetcode_DSA/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/ashrtist/Leetcode_DSA/tree/master/0412-fizz-buzz) |
 | [1025-divisor-game](https://github.com/ashrtist/Leetcode_DSA/tree/master/1025-divisor-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ashrtist/Leetcode_DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ashrtist/Leetcode_DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -128,6 +129,7 @@ LeetCode DSA
 | ------- |
 | [0054-spiral-matrix](https://github.com/ashrtist/Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0059-spiral-matrix-ii) |
+| [0412-fizz-buzz](https://github.com/ashrtist/Leetcode_DSA/tree/master/0412-fizz-buzz) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashrtist/Leetcode_DSA/tree/master/2553-separate-the-digits-in-an-array) |
 ## Greedy
 |  |
@@ -171,6 +173,7 @@ LeetCode DSA
 | [0345-reverse-vowels-of-a-string](https://github.com/ashrtist/Leetcode_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashrtist/Leetcode_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ashrtist/Leetcode_DSA/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/ashrtist/Leetcode_DSA/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/ashrtist/Leetcode_DSA/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ashrtist/Leetcode_DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3110-score-of-a-string](https://github.com/ashrtist/Leetcode_DSA/tree/master/3110-score-of-a-string) |
