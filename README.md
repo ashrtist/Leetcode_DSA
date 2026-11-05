@@ -88,6 +88,7 @@ LeetCode DSA
 | [0070-climbing-stairs](https://github.com/ashrtist/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/ashrtist/Leetcode_DSA/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/ashrtist/Leetcode_DSA/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/ashrtist/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/ashrtist/Leetcode_DSA/tree/master/1025-divisor-game) |
 ## Memoization
@@ -195,6 +196,7 @@ LeetCode DSA
 | [0078-subsets](https://github.com/ashrtist/Leetcode_DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0137-single-number-ii) |
+| [0338-counting-bits](https://github.com/ashrtist/Leetcode_DSA/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/ashrtist/Leetcode_DSA/tree/master/0389-find-the-difference) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ashrtist/Leetcode_DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/ashrtist/Leetcode_DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
