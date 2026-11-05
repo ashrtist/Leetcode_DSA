@@ -52,6 +52,7 @@ LeetCode DSA
 | [0412-fizz-buzz](https://github.com/ashrtist/Leetcode_DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/ashrtist/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/ashrtist/Leetcode_DSA/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/ashrtist/Leetcode_DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ashrtist/Leetcode_DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ashrtist/Leetcode_DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashrtist/Leetcode_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -91,11 +92,13 @@ LeetCode DSA
 | [0338-counting-bits](https://github.com/ashrtist/Leetcode_DSA/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/ashrtist/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/ashrtist/Leetcode_DSA/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/ashrtist/Leetcode_DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ashrtist/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ashrtist/Leetcode_DSA/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/ashrtist/Leetcode_DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Graph Theory
 |  |
 | ------- |
