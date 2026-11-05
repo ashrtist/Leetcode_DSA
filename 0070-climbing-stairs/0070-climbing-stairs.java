@@ -1,21 +1,18 @@
 class Solution {
     public int climbStairs(int n) {
+        if(n<=2) return n; //base case ..jab value 2 ya 2 se neeche return value
 
-        if (n <= 2) {
-            return n;
+        int a[] = new int[n+1]; //3+1-->4
+        a[1]=1;
+        a[2]=2;
+
+        // 0 1 2 3
+        // 0 1 2 3
+        //           3<=3 true
+        for(int i=3 ;i<=n;i++)
+        {
+            a[i] = a[i-1] + a[i-2]; //a[3] = 3 
         }
-
-        int first = 1;   // ways to reach stair 1
-        int second = 2;  // ways to reach stair 2
-
-        for (int i = 3; i <= n; i++) {
-
-            int current = first + second;
-
-            first = second;
-            second = current;
-        }
-
-        return second;
+        return a[n];//a[3]-->3
     }
 }
