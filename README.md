@@ -140,6 +140,7 @@ LeetCode DSA
 | [0059-spiral-matrix-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/ashrtist/Leetcode_DSA/tree/master/0412-fizz-buzz) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashrtist/Leetcode_DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/ashrtist/Leetcode_DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -187,6 +188,7 @@ LeetCode DSA
 | [0771-jewels-and-stones](https://github.com/ashrtist/Leetcode_DSA/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ashrtist/Leetcode_DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3110-score-of-a-string](https://github.com/ashrtist/Leetcode_DSA/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/ashrtist/Leetcode_DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Quicksort
 |  |
 | ------- |
