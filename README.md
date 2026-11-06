@@ -48,6 +48,7 @@ LeetCode DSA
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ashrtist/Leetcode_DSA/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/ashrtist/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/ashrtist/Leetcode_DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/ashrtist/Leetcode_DSA/tree/master/0509-fibonacci-number) |
@@ -118,6 +119,7 @@ LeetCode DSA
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ashrtist/Leetcode_DSA/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/ashrtist/Leetcode_DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ashrtist/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ashrtist/Leetcode_DSA/tree/master/0073-set-matrix-zeroes) |
@@ -172,6 +174,7 @@ LeetCode DSA
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ashrtist/Leetcode_DSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ashrtist/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ashrtist/Leetcode_DSA/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/ashrtist/Leetcode_DSA/tree/master/0079-word-search) |
