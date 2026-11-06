@@ -38,6 +38,7 @@ LeetCode DSA
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ashrtist/Leetcode_DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2367-number-of-arithmetic-triplets](https://github.com/ashrtist/Leetcode_DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashrtist/Leetcode_DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [2747-count-zero-request-servers](https://github.com/ashrtist/Leetcode_DSA/tree/master/2747-count-zero-request-servers) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/ashrtist/Leetcode_DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashrtist/Leetcode_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/ashrtist/Leetcode_DSA/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -78,6 +79,7 @@ LeetCode DSA
 | [0075-sort-colors](https://github.com/ashrtist/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/ashrtist/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ashrtist/Leetcode_DSA/tree/master/0389-find-the-difference) |
+| [2747-count-zero-request-servers](https://github.com/ashrtist/Leetcode_DSA/tree/master/2747-count-zero-request-servers) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ashrtist/Leetcode_DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/ashrtist/Leetcode_DSA/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -131,6 +133,7 @@ LeetCode DSA
 | [0771-jewels-and-stones](https://github.com/ashrtist/Leetcode_DSA/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ashrtist/Leetcode_DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2367-number-of-arithmetic-triplets](https://github.com/ashrtist/Leetcode_DSA/tree/master/2367-number-of-arithmetic-triplets) |
+| [2747-count-zero-request-servers](https://github.com/ashrtist/Leetcode_DSA/tree/master/2747-count-zero-request-servers) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ashrtist/Leetcode_DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/ashrtist/Leetcode_DSA/tree/master/3731-find-missing-elements) |
 ## Simulation
@@ -261,4 +264,8 @@ LeetCode DSA
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ashrtist/Leetcode_DSA/tree/master/0509-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/ashrtist/Leetcode_DSA/tree/master/2747-count-zero-request-servers) |
 <!---LeetCode Topics End-->
