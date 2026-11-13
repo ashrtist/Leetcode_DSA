@@ -34,6 +34,7 @@ LeetCode DSA
 | [0130-surrounded-regions](https://github.com/ashrtist/Leetcode_DSA/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/ashrtist/Leetcode_DSA/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0137-single-number-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ashrtist/Leetcode_DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ashrtist/Leetcode_DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2367-number-of-arithmetic-triplets](https://github.com/ashrtist/Leetcode_DSA/tree/master/2367-number-of-arithmetic-triplets) |
@@ -67,6 +68,7 @@ LeetCode DSA
 | [0075-sort-colors](https://github.com/ashrtist/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/ashrtist/Leetcode_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ashrtist/Leetcode_DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2367-number-of-arithmetic-triplets](https://github.com/ashrtist/Leetcode_DSA/tree/master/2367-number-of-arithmetic-triplets) |
 ## Sorting
 |  |
@@ -78,6 +80,7 @@ LeetCode DSA
 | [0056-merge-intervals](https://github.com/ashrtist/Leetcode_DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ashrtist/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/ashrtist/Leetcode_DSA/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/ashrtist/Leetcode_DSA/tree/master/0389-find-the-difference) |
 | [2747-count-zero-request-servers](https://github.com/ashrtist/Leetcode_DSA/tree/master/2747-count-zero-request-servers) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ashrtist/Leetcode_DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -128,6 +131,7 @@ LeetCode DSA
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashrtist/Leetcode_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashrtist/Leetcode_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0242-valid-anagram](https://github.com/ashrtist/Leetcode_DSA/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashrtist/Leetcode_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ashrtist/Leetcode_DSA/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/ashrtist/Leetcode_DSA/tree/master/0771-jewels-and-stones) |
@@ -220,6 +224,7 @@ LeetCode DSA
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
