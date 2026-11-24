@@ -14,6 +14,7 @@ LeetCode DSA
 | [0046-permutations](https://github.com/ashrtist/Leetcode_DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/ashrtist/Leetcode_DSA/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/ashrtist/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ashrtist/Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ashrtist/Leetcode_DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ashrtist/Leetcode_DSA/tree/master/0056-merge-intervals) |
@@ -89,6 +90,7 @@ LeetCode DSA
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/ashrtist/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ashrtist/Leetcode_DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/ashrtist/Leetcode_DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ashrtist/Leetcode_DSA/tree/master/0064-minimum-path-sum) |
@@ -228,6 +230,7 @@ LeetCode DSA
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ashrtist/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashrtist/Leetcode_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashrtist/Leetcode_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Tree
